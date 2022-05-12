@@ -1,7 +1,3 @@
----
-title: false
----
-
 # Kierikin tulospalvelu
 
 [Oranssi](./23.html)
