@@ -1,3 +1,7 @@
+---
+title: false
+---
+
 # Kierikin väliaikatulokset
 
 [Oranssi](./23.html)
