@@ -1,5 +1,3 @@
-# Kierikin tulospalvelu
-
 [Oranssi](./23.html)
 
 [Vihreä](./24.html)
