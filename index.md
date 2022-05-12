@@ -2,7 +2,7 @@
 title: false
 ---
 
-# Kierikin väliaikatulokset
+# Kierikin tulospalvelu
 
 [Oranssi](./23.html)
 
