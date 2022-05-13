@@ -1,7 +1,7 @@
 # Kierikin tulospalvelu
 
-[Oranssi](./23.html)
+[Oranssi](./oranssi.html)
 
-[Vihreä](./24.html)
+[Vihreä](./vihrea.html)
 
-[Purppura](./25.html)
+[Purppura](./purppura.html)
