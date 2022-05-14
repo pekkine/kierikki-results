@@ -1,7 +1,5 @@
 # Kierikki LIVE
 
-*Partiotaitojen kevät-SM-kilpailu kisataan 14.5.2022 Yli-Iissä*
-
 [Kilpailun nettisivut](https://pohjanmaa.partio.fi/nyt/kierikki/)
 
 ## SCOMS
