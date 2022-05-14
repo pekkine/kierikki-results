@@ -6,7 +6,7 @@
 
 [GPS-seuranta](https://havu.scoms.fi/events/kierikki-2022/kartta)
 
-## Väliaikatulokset ja linkit tehtäväpapereihin
+## Vahvistamattomat tulokset ja linkit tehtäväpapereihin
 
 [Oranssi](./oranssi.html)
 
