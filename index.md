@@ -4,7 +4,7 @@
 
 ## SCOMS
 
-*Linkki GPS-seurantaan tulossa*
+[GPS-seuranta](https://havu.scoms.fi/events/kierikki-2022/kartta)
 
 ## Väliaikatulokset
 
