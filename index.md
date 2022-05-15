@@ -14,6 +14,6 @@
 
 [Purppura](./purppura.html) - lataa pdf-muodossa [tästä](./purppura.pdf)
 
-Purppuran sarjan Lidarin virheellinen interpolointi on korjattu valvojan hyväksynnällä su 16.5 klo 18.25. Korjaus vaikutti sijoituksiin 7-10.
+Purppuran sarjan Lidarin virheellinen interpolointi on korjattu valvojan hyväksynnällä su 16.5. klo 18.25. Korjaus vaikutti sijoituksiin 7-10.
 
 
